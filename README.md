@@ -18,8 +18,7 @@ my 3 fav animes are:naruto, one piece, bunny girl senpai(i watch this in private
 <h2 style="font-family: Georgia, serif; color: #34495e;">/Random Facts About Me </h2>
 <ul style="font-family: Georgia, serif; font-size: 16px; color: #2c3e50;">
   <li>I'm a night owl 🌙</li>
-  <li>Podcasts = relaxation 🎧</li>
-  <li>I'm obsessed with VR/AR tech 🌐</li>
+  
 </ul>
 
 <h2 style="font-family: Georgia, serif; color: #34495e;">/Contact Me </h2>
